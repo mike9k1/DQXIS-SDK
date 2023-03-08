@@ -13,3 +13,7 @@ An XInput/DXGI wrapper DLL bringing several enhancements to DQXIS, via an SDK ge
 - Allows the game to load previously ignored debug packages (may come in useful in some way, eg. allowing the debug map to be loaded in)
 
 The SDK also has a large amount of the games classes/structs mapped out, giving a great view into the games internals.
+
+## How to install
+Extract the xinput1_3.dll & DQXIS-SDK.ini files into your "steamapps\common\DRAGON QUEST XI S\Game\Binaries\Win64\" folder
+The input.ini file goes in the "C:\Users\%username%\Documents\My Games\DRAGON QUEST XI S\Steam\Saved\Config\WindowsNoEditor" folder.
